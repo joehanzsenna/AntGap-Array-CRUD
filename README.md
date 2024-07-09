@@ -1,4 +1,4 @@
-# This is an array crud operation for fictional books, to create, read, update and delete a post 
+#This is an array crud operation for fictional books, to create, read, update and delete a post 
 
 to start the project firstly after cloning the repo, you need to open the terminal, starting with the server,
 cd server
